@@ -1,0 +1,146 @@
+.appContainer {
+  gap: 1.2rem;
+  padding: 6rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.mainHeader {
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 0.8rem;
+  font-weight: 600;
+  font-size: 3.2rem;
+  color: #484a6a;
+}
+
+.searchInput {
+  box-shadow: 0 0 1px 1px rgb(0 0 0 / 10%);
+  font-size: 1.5rem;
+  color: #595b83;
+  font-weight: 500;
+  padding: 0.8rem;
+  border: none;
+  transition: all 0.5s;
+}
+
+.searchInput:focus {
+  outline: none;
+  box-shadow: 0 0 1px 1px rgba(73, 28, 119, 0.4);
+}
+
+.searchBtn {
+  box-shadow: 0px 10px 20px rgba(40, 93, 123, 0.1);
+  font-family: "Montserrat", sans-serif;
+  background-color: #4f37af;
+  display: inline-block;
+  transition: all 0.5s;
+  border-radius: 6px;
+  font-size: 1.6rem;
+  font-weight: 500;
+  color: #fff;
+  border: none;
+  width: 10rem;
+  height: 4.2rem;
+  cursor: pointer;
+}
+
+.searchBtn:hover {
+  background-color: #452e9f;
+}
+
+.errorArea {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.8rem;
+  background: #fff7f7;
+  border: 1px solid #ffd0d0;
+  border-radius: 6px;
+  padding: 12px;
+  width: 44.6rem;
+  height: 4.6rem;
+}
+
+.errorText {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 1.4rem;
+  color: #484a6a;
+}
+
+.itemsContainer {
+  margin-top: 2.8rem;
+  border-radius: 6px;
+  background-color: #fff;
+  box-shadow: 0 0 1px 1px rgb(0 0 0 / 10%);
+  width: 100%;
+}
+
+.itemsHeadingsArea {
+  padding: 1.6rem;
+  display: flex;
+  align-items: center;
+  gap: 6rem;
+}
+
+.itemHeadID {
+  margin-right: 3.2rem;
+}
+
+.itemHeadArticle {
+  margin-right: 10rem;
+}
+
+.itemHeadName {
+  margin-right: 18rem;
+}
+
+.itemHeadBrand {
+  margin-right: 14rem;
+}
+
+.itemHeadPrice {
+  margin-right: 10rem;
+}
+
+.wholeItem {
+  border-top: 2px solid #ede6e4fa;
+  padding: 1.6rem;
+  display: flex;
+  align-items: center;
+  gap: 6.8rem;
+}
+
+.itemHead {
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 1.4rem;
+  color: #595b83;
+}
+
+.itemText {
+  font-weight: 400;
+  font-size: 1.4rem;
+  color: #595b83;
+}
+
+.itemTextArticle {
+  margin-right: 6rem;
+  transform: translateX(1.2rem);
+  width: 9%;
+}
+
+.itemTextName {
+  width: 19.5%;
+}
+
+.itemTextBrand {
+  width: 14%;
+}
+
+.itemTextPrice {
+  width: 14%;
+}

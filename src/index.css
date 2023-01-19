@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600&display=swap");
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-image: linear-gradient(90deg, #f4f4f5 20%, #d4d4d8 100%);
+  font-family: "Inter", sans-serif;
+  color: #595b83;
+}
+
+/*** Quires **/
+
+@media (max-width: 238em) {
+  html {
+    font-size: 135%;
+  }
+}
+
+@media (max-width: 207em) {
+  html {
+    font-size: 125%;
+  }
+}
+
+@media (max-width: 188em) {
+  html {
+    font-size: 110%;
+  }
+}
+
+@media (max-width: 169em) {
+  html {
+    font-size: 100%;
+  }
+}
+
+@media (max-width: 150em) {
+  html {
+    font-size: 90%;
+  }
+}
+
+@media (min-width: 140em) {
+  html {
+    font-size: 85%;
+  }
+}
+
+@media (max-width: 132em) {
+  html {
+    font-size: 83%;
+  }
+}
+
+@media (max-width: 120em) {
+  html {
+    font-size: 62.5%;
+  }
+}
+
+@media (max-width: 91.25em) {
+  html {
+    font-size: 58%;
+  }
+}
+
+@media (max-width: 80.8em) {
+  html {
+    font-size: 53%;
+  }
+}
+
+@media (max-width: 74em) {
+  html {
+    font-size: 48%;
+  }
+}
+
+@media (max-width: 67em) {
+  html {
+    font-size: 43%;
+  }
+}
+
+@media (max-width: 60em) {
+  html {
+    font-size: 40%;
+  }
+}
+
+@media (max-width: 54em) {
+  html {
+    font-size: 35%;
+  }
+}
+
+@media (max-width: 49em) {
+  html {
+    font-size: 32%;
+  }
+}
+
+@media (max-width: 45em) {
+  html {
+    font-size: 28%;
+  }
+}
+
+@media (max-width: 40em) {
+  html {
+    font-size: 26%;
+  }
+}
