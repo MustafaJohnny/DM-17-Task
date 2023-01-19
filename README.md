@@ -2,7 +2,7 @@
 
 ## Overview
 
-A Small React Project, This test task was all done in almost 5 hours and the purpose of it is to apply for a fullstack developer role.
+A Small React Project, This test task was all done in almost 2.5 hours and the purpose of it is to apply for a fullstack developer role.
 
 ## Links
 
