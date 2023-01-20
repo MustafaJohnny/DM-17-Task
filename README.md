@@ -12,7 +12,7 @@ A Small React Project, This test task was all done in almost 2.5 hours and the p
 
 - [React](https://reactjs.org/)
 - [Figma](https://www.figma.com/)
-  [React Hooks](https://reactjs.org/docs/hooks-intro.html/)
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
